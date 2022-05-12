@@ -1,0 +1,412 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&family=Dosis:wght@670;677;700;785;800&family=Henny+Penny&family=Manrope:wght@800&family=Montagu+Slab:opsz,wght@16..144,600&family=MonteCarlo&family=Nunito+Sans:wght@900&family=Nunito:wght@500&family=Poppins:wght@600;700;900&family=Press+Start+2P&family=Roboto:wght@900&family=Sacramento&family=Water+Brush&display=swap');
+
+body {
+  margin: 0;
+  text-align: center;
+  background: #E5E5E5;
+  padding: 0;
+}
+
+.section1 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.st-container {
+  height: 700px;
+  margin: 0;
+  padding: 0px;
+}
+
+.sec1-img {
+  position: relative;
+  left: 0px;
+  width: 100%;
+  height: 713px;
+}
+
+.element {
+  width: 1360px;
+  position: absolute;
+  top: 200px;
+  left: 160px;
+  text-align: left;
+}
+
+h1 {
+  /* h1 */
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 86px;
+  line-height: 86px;
+  /* or 100% */
+  letter-spacing: -0.05em;
+  /* White */
+  color: #FFFFFF;
+}
+
+.tet {
+  padding-top: 20px;
+}
+
+.lin {
+  /* mid p */
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 150%;
+  text-decoration: none;
+  /* or 32px */
+  padding: 40px 40px 40px 0px;
+  /* White */
+  color: #FFFFFF;
+}
+
+span {
+  position: relative;
+  top: 4px;
+  padding-right: 20px;
+}
+
+.btn {
+  margin-top: 60px;
+  border: none;
+  /* position: absolute; */
+  padding: 9px 51px;
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 32px;
+  /* identical to box height, or 229% */
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background: #32CCA7;
+}
+
+.temp {
+  display: inline-block;
+  padding: 72px 40px 54px 40px;
+}
+
+.ff {
+  background: White;
+}
+
+.temp img {
+  padding-bottom: 13px;
+}
+
+h4 {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 170%;
+  /* or 24px */
+  padding: 0 30px 24px 30px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #01808F;
+}
+
+.section2 {
+  height: 848px;
+  width: 1360px;
+  margin: auto;
+}
+
+.im3 {
+  float: right;
+  position: relative;
+  padding-top: 85px;
+  height: 730px;
+  width: 660px;
+  padding-bottom: 103px;
+}
+
+.elem {
+  padding-top: 150px;
+  width: 543px;
+  text-align: left;
+}
+
+.teta {
+  width: 543px;
+  float: left;
+  text-align: left;
+}
+
+h2 {
+  /* h2 */
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 54px;
+  /* or 108% */
+  letter-spacing: -0.04em;
+  /* dark lagoon */
+  color: #00616C;
+}
+
+.pop {
+  /* paragraf */
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 170%;
+  /* or 31px */
+  /* dark lagoon */
+  color: #00616C;
+}
+
+.lin1 {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 200%;
+  /* or 32px */
+  text-decoration: none;
+  /* or 32px */
+  top: 30px;
+  padding: 40px 40px 40px 0px;
+  /* White */
+  color: black;
+}
+
+.teta a {
+  top: 30px;
+}
+
+.section3 {
+  background: #01808F;
+  border-radius: 64px 64px 0 0;
+  width: 100%;
+  margin: auto;
+  height: 930px;
+}
+
+.main-container-sec131 {
+  width: 1360px;
+  margin: auto;
+}
+
+.im31 {
+  float: left;
+  position: relative;
+  padding-top: 85px;
+  height: 730px;
+  width: 660px;
+  padding-bottom: 103px;
+}
+
+.lin12 {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 200%;
+  /* or 32px */
+  text-decoration: none;
+  /* or 32px */
+  top: 30px;
+  padding: 40px 40px 40px 0px;
+  /* White */
+  color: White;
+}
+
+.elem1 {
+  position: relative;
+  left: 150px;
+  padding-top: 150px;
+  margin-left: 156px;
+  text-align: left;
+}
+
+.teta1 {
+  position: relative;
+  left: 150px;
+  margin-left: 156px;
+  text-align: left;
+}
+
+.main-container-se {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin: auto;
+}
+
+.st-containe {
+  margin: auto;
+  padding-top: 50px;
+}
+
+.req {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 54px;
+  /* or 108% */
+  text-align: center;
+  letter-spacing: -0.04em;
+  /* dark lagoon */
+  color: #00616C;
+}
+
+.formm {
+  text-align: left;
+  padding: 81px 100px 0px 99px;
+  width: 480px;
+  margin: 50px auto;
+  background: #01808F;
+  border-radius: 36px;
+}
+
+label {
+  text-align: left;
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.1px;
+  color: #FFFFFF;
+}
+
+input {
+  margin: 10px auto;
+  width: 460px;
+  height: 50px;
+  border: none;
+  border-radius: 5px;
+}
+
+.hh {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  /* or 175% */
+  text-align: left;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+}
+
+.cc {
+  padding: 20px 0 100px 0;
+}
+
+.ttt {
+  width: 25px;
+  height: 25px;
+  background: #FFFFFF;
+  border: 1px solid #DCDCDC;
+  border-radius: 5px;
+}
+
+.fff {
+  display: inline;
+}
+
+h3 {
+  /* h3 */
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 28px;
+  /* or 133% */
+  text-align: center;
+  /* dark lagoon */
+  color: #00616C;
+}
+
+.mid-section {
+  /* dark lagoon */
+
+background: #00616C;
+border-radius: 64px;
+}
+
+.main-container1 {
+
+}
+
+.container2 {
+  height: 926px;
+  width: 1360px;
+}
+
+.label {
+  position: absolute;
+  padding-top: 300px;
+  right: 200px;
+}
+
+.mmm {
+  position: absolute;
+  padding-top: 155px;
+  left: 450px;
+
+}
+
+.mmmm {
+  position: absolute;
+  padding-top: 300px;
+  left: 200px;
+
+}
+hr{
+  margin: auto;
+  border-color: #32CCA7;
+  width: 5%;
+  padding: 0 10px;
+  position: relative;
+  bottom: 70px;
+  left: auto;
+border-bottom: none;
+border-left: none;
+border-right: none;
+border-top: 15px dotted #32CCA7 ;
+}
+.last-section{
+  background: white;
+}
+
+.cont2{
+  padding-top: 77px;
+  padding-bottom: 50px;
+
+}
+.te{
+  border: 1px solid #DEDEDE;
+  border-radius: 5px;
+  width: 744px;
+  margin: 70px auto;
+}
+.dod{
+  width: 100%;
+  background: #32CCA7;
+  margin: 0px;
+  height: 130px;
+
+}
+
+.jj{
+  padding: 52px 0;
+  margin: auto;
+  color: white;
+}
